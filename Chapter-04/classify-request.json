@@ -1,0 +1,17 @@
+{
+    "document": {
+        "type": "PLAIN_TEXT",
+        "content": "All the summer long I stood
+        In the silence of the wood.
+        Tall and tapering I grew;
+        What might happen well I knew;
+        For one day a little bird.
+        Sang, and in the song I heard
+        Many things quite strange to me"
+    },
+    "classificationModelOptions": {
+        "v2Model": {
+            "contentCategoriesVersion": "V2"
+        }
+    }
+}

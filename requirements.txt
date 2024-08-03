@@ -1,0 +1,9 @@
+ipykernel
+pandas
+numpy
+python-dotenv
+python-json-config
+google-cloud-documentai
+
+
+
