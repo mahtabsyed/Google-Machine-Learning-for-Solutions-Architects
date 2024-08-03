@@ -13,4 +13,5 @@
 ## Refer
 <a href="https://www.packtpub.com/en-in/product/google-machine-learning-and-generative-ai-for-solutions-architects-9781803245270"><img src="https://m.media-amazon.com/images/I/81Xj95chYRL._SL1500_.jpg" alt="Google Machine Learning and Generative AI for Solutions Architects" height="256px" align="right"></a>
 
-This is the code repository for [Google Machine Learning and Generative AI for Solutions Architects](https://www.packtpub.com/en-in/product/google-machine-learning-and-generative-ai-for-solutions-architects-9781803245270), published by Packt.
+This is my working code, initialy cloned fron this repository :
+[Google Machine Learning and Generative AI for Solutions Architects](https://www.packtpub.com/en-in/product/google-machine-learning-and-generative-ai-for-solutions-architects-9781803245270), published by Packt.
