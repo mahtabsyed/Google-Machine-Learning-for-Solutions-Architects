@@ -4,6 +4,9 @@ numpy
 python-dotenv
 python-json-config
 google-cloud-documentai
-
+scikit-learn
+pandas
+matplotlib
+xgboost
 
 
